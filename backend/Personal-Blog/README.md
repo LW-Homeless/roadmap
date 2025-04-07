@@ -32,3 +32,16 @@ The MVC design pattern has the following structure.
 `python3 manage.py runserver 80`
 
 Admin section username and password: (admin:admin)
+
+# Screenshot
+**Guest section**
+![alt text](https://github.com/LW-Homeless/roadmap/blob/main/backend/Personal-Blog/IMG-README/personal-blog-public1.png)
+![alt text](https://github.com/LW-Homeless/roadmap/blob/main/backend/Personal-Blog/IMG-README/personal-blog-public2.png)
+![alt text](https://github.com/LW-Homeless/roadmap/blob/main/backend/Personal-Blog/IMG-README/personal-blog-public3.png)
+
+**Admin section**
+![alt text](https://github.com/LW-Homeless/roadmap/blob/main/backend/Personal-Blog/IMG-README/dashboard-1.png)
+![alt text](https://github.com/LW-Homeless/roadmap/blob/main/backend/Personal-Blog/IMG-README/dashboard2.png)
+![alt text](https://github.com/LW-Homeless/roadmap/blob/main/backend/Personal-Blog/IMG-README/dashboard3.png)
+![alt text](https://github.com/LW-Homeless/roadmap/blob/main/backend/Personal-Blog/IMG-README/dashboard4.png)
+
