@@ -22,9 +22,9 @@ pillow v11.1.0
 # Solution
 - Programming language: Python 3.11.3.
 - Type of programming: object-oriented programming (OOP).
-- Design pattern: Model-View-Controller (MVC).
+- Design pattern: Model-View-Template (MVT).
 
-The MVC design pattern has the following structure.
+The MVT design pattern has the following structure.
 ![alt text](https://github.com/LW-Homeless/roadmap/blob/main/backend/Personal-Blog/IMG-README/mvc-django.png)
 
 # How to use
